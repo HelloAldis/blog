@@ -3,7 +3,8 @@ title: 五子棋AI算法Java实现
 date: 2012-09-18 23:03:46
 categories: Java
 tags: 
-  - 五子棋
+	- 五子棋
+	- AI
 ---
 五子棋AI算法 也算是一个典型的游戏AI算法，一些棋类的AI算法都可以参考实现，下面是Java实现代码
 

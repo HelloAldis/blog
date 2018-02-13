@@ -6,6 +6,7 @@ categories:
   - [iOS]
 tags:
   - i18n
+  - Xcode
 ---
 
 ## 本地化应用程序中的字符串
