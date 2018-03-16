@@ -78,3 +78,9 @@ theme: lite
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+toc:
+  maxdepth: 3
+  class: toc
+  slugify: transliteration
+  decodeEntities: false
